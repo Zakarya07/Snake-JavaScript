@@ -1,0 +1,18 @@
+body{
+
+background-color: rgb(58, 53, 53);
+}
+
+#btn{
+ display: flex;
+ width: 100%;
+ justify-content: center;
+ margin:1px auto;
+}
+#btn button{
+    background-color: rgb(0, 0, 0);
+    font-size: 18px;
+    width: 10%;
+    color: white;
+}
+
